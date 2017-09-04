@@ -10,4 +10,4 @@
 
 # rspec failure tracking
 .rspec_status
-rulers-0.0.1.gem
+*.gem
